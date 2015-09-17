@@ -1,4 +1,3 @@
-//if(screen.width<900) {
 $(function(){
     // 
     var duration = 500;
@@ -27,4 +26,4 @@ $(function(){
 
 });
 
-//}
+

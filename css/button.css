@@ -55,8 +55,8 @@ button {
 		left: -100px;
 		display: block;
 		position: absolute;
-		width: 200px;
-		height: 100px;
+		width: 150px;
+		height: 150px;
 		overflow: hidden;
 		font-size: 16px;
 		letter-spacing: 1px;
@@ -64,7 +64,7 @@ button {
 		background-color: #fff;
 		border: none;
 		border-radius:0px;
-		top:-10px;
+		top:-30px;
 	}
 	#buttons2 button:nth-child(7) {left: 920px;}
 }
@@ -72,6 +72,12 @@ button {
 
 
 @media screen and (min-width:992px) and (max-width:1199px){
+
+	#buttonpic {
+		width:124px;
+		height:124px;
+		border:0px;
+	}
 
 	#buttons2 .inner {
 		position: relative;
@@ -104,16 +110,16 @@ button {
 		left: -82.6667px;
 		display: block;
 		position: absolute;
-		width: 165.3334px;
-		height: 82.6667px;
+		width: 124px;
+		height:124px;
 		overflow: hidden;
 		font-size: 13.226672px;
 		letter-spacing: 0.826667px;
 		color: black;
-		background-color: #fff;
+		background-color:black;
 		border: none;
 		border-radius:0px;
-		top:-8.26667px;
+		top:-22.5px;
 	}
 	#buttons2 button:nth-child(7) {left: 760.53364px;}
 }
@@ -160,8 +166,8 @@ button {
 		left: -50px;
 		display: block;
 		position: absolute;
-		width: 150px;
-		height: 75px;
+		width:112.5px;
+		height:112.5px;
 		overflow: hidden;
 		font-size: 12px;
 		letter-spacing: 0.75px;
@@ -169,7 +175,7 @@ button {
 		background-color: #fff;
 		border: none;
 		border-radius:0px;
-		top:-7.5px;
+		top:-22.5px;
 	}
 	#buttons2 button:nth-child(7) {left: 680px;}
 }
@@ -218,8 +224,8 @@ button {
 		left: -46.6667px;
 		display: block;
 		position: absolute;
-		width: 93.3334px;
-		height: 46.6667px;
+		width: 70px;
+		height: 70px;
 		overflow: hidden;
 		font-size: 7.466672px;
 		letter-spacing: 0.46667px;
@@ -227,7 +233,7 @@ button {
 		background-color: #fff;
 		border: none;
 		border-radius:0px;
-		top:-4.66667px;
+		top:-14px;
 	}
 	#buttons2 button:nth-child(7) {left: 429.33364px;}
 }
